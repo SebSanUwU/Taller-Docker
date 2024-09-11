@@ -13,7 +13,7 @@ A continuación, se muestra una imagen de la arquitectura propuesta y desplegada
 
 ![img.png](ReadMeContent/img.png)
 
-La carpeta DockerTaller tiene el proyecto de LogService. La carpeta APP-LB-RoundRobin es el APP-LB-RoundRobin con el cliente web.
+La carpeta **DockerTaller** tiene el proyecto de LogService. La carpeta **APP-LB-RoundRobin** es el APP-LB-RoundRobin con el cliente web.
 
 ## Getting Started
 
