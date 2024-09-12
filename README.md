@@ -1,4 +1,4 @@
-# Taller 3 Docker - MODULARIZACIÓN CON VIRTUALIZACIÓN E INTRODUCCIÓN A DOCKER
+# Taller 4 Docker - MODULARIZACIÓN CON VIRTUALIZACIÓN E INTRODUCCIÓN A DOCKER
 
 Este proyecto consiste en la creación de toda una arquitectura de software para la consulta de logs. La arquitectura está orquestada por contenedores Docker y está diseñada para ser desplegada en la nube de AWS (EC2).
 
